@@ -1,0 +1,15 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    val calendar = createCalendar()
+    // write your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6781
+status: Failed
+feedback:
+  message: |
+    Failed. Wrong answer
+  time: Sun, 12 Jul 2020 06:32:38 UTC
+record: -1
